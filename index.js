@@ -16,7 +16,6 @@ function toWeirdCase(text){
 		result += ' ';
 	}
 
-	console.log(result.trim());
 	return result.trim();
 }
 
